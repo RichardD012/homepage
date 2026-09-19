@@ -24,7 +24,6 @@ jobs:
 
   build:
     name: Docker Build & Push
-    if: github.repository == 'gethomepage/homepage'
     runs-on: ubuntu-22.04
     permissions:
       contents: read
