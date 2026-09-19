@@ -1258,5 +1258,10 @@
         "wanted": "Wanted",
         "queued": "Queued",
         "leagues": "Leagues"
+    },
+    "bindery": {
+        "wanted": "Wanted",
+        "queued": "Queued",
+        "books": "Books"
     }
 }

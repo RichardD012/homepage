@@ -20,6 +20,7 @@ You can also find a list of all available service widgets in the sidebar navigat
 - [Bazarr](bazarr.md)
 - [Booklore](booklore.md)
 - [Beszel](beszel.md)
+- [Bindery](bindery.md)
 - [Caddy](caddy.md)
 - [Calendar](calendar.md)
 - [Calibre-Web](calibre-web.md)
