@@ -10,6 +10,7 @@ import azuredevops from "./azuredevops/widget";
 import backrest from "./backrest/widget";
 import bazarr from "./bazarr/widget";
 import beszel from "./beszel/widget";
+import bindery from "./bindery/widget";
 import booklore from "./booklore/widget";
 import bookorbit from "./bookorbit/widget";
 import caddy from "./caddy/widget";
@@ -176,6 +177,7 @@ const widgets = {
   booklore,
   bookorbit,
   beszel,
+  bindery,
   caddy,
   calibreweb,
   changedetectionio,

@@ -1280,5 +1280,10 @@
     },
     "feed": {
         "noItems": "No items"
+    },
+    "bindery": {
+        "wanted": "Wanted",
+        "queued": "Queued",
+        "books": "Books"
     }
 }
