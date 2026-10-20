@@ -4,6 +4,7 @@
 #   scripts/bindery-sync.sh --yes    same, cut the release without prompting
 #   scripts/bindery-sync.sh --check  report only, change nothing
 set -euo pipefail
+export GIT_PAGER=cat
 
 # Release step checks out other commits, which rewrites this file mid-run; execute from a temp copy.
 if [ -z "${BINDERY_SYNC_COPY:-}" ]; then
